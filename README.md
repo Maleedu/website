@@ -10,5 +10,11 @@ Adding changes for example
 
 Changes as part of atomatic merge example
 
+<<<<<<< HEAD
 # Updates from master
 this is going to be painful, but we will deal with it
+=======
+## Causing trouble
+
+since i plan to edit the same file this could cause a conflict
+>>>>>>> trouble
