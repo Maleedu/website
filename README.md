@@ -9,3 +9,7 @@ Adding changes for example
 ### Even more changes
 
 Changes as part of atomatic merge example
+
+## Causing trouble
+
+since i plan to edit the same file this could cause a conflict
